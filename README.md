@@ -41,3 +41,9 @@ const developer = {
   ],
   lifePhilosophy: "Keep learning, keep building 💡"
 };
+
+🔭 Building scalable web applications with modern tech stacks
+🌱 Continuously exploring new technologies and best practices
+💡 Passionate about clean code and system architecture
+🎯 Problem solver on HackerRank & CodeWars
+📫 Reach me at: minhnn1403@gmail.com
