@@ -47,7 +47,7 @@ const developer = {
 💡 Passionate about clean code and system architecture
 🎯 Problem solver on HackerRank & CodeWars
 📫 Reach me at: minhnn1403@gmail.com
-
+```
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
